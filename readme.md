@@ -1,5 +1,5 @@
 ## Typescript Basic Demo
-This repo accompanies video 10.2 in CSCI E31.
+This repo accompanies video 10.2, 10.3 and 10.6 in CSCI E31.
 
 To run the code, you'll need NodeJS installed, as well as typescript (`npm install -g typescript`).  
 
